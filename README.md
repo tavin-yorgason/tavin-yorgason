@@ -1,16 +1,23 @@
-## Hi there 👋
+### Languages
+C++ and C <br>
+Python <br>
+Bash
+<br>
 
-<!--
-**tavin-yorgason/tavin-yorgason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Degree
+Bachelor of Science in Computer Science at University of Idaho
+<br>
 
-Here are some ideas to get you started:
+### Project I'm working on
+[ASCII Graphing Calculator](https://github.com/tavin-yorgason/SimpleGraphingCalculator)
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My favorite classes
+Analysis of algorithms \[CS/MATH 395\] <br>
+Data structures \[CS 121\] <br>
+Operating systems \[CS 240\]
+<br>
+
+### Hobbies
+Powerlifting <br>
+Speedcubing
