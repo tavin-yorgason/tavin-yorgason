@@ -1,5 +1,6 @@
 ### Languages
 C++ and C <br>
+C# <br>
 Python <br>
 Bash
 <br>
@@ -8,8 +9,12 @@ Bash
 Bachelor of Science in Computer Science at University of Idaho
 <br>
 
+### Work Experience
+Game Developer at Polymorphic Games since June 2nd, 2025
+<br>
+
 ### Project I'm working on
-[ASCII Graphing Calculator](https://github.com/tavin-yorgason/SimpleGraphingCalculator)
+[Rubik's Cube Simulator](https://github.com/tavin-yorgason/RubiksCubeSimulator)
 <br>
 
 ### My favorite classes
